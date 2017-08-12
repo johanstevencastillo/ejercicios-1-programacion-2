@@ -16,7 +16,7 @@ public class Ejerciccio1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("HOLA MUNDO DESDE UDEC ");
+        System.out.println("HOLA MUNDO DESDE UDEC 2017 ");
                 System.out.println("####################");
 		System.out.println("#                  #");
 		System.out.println("#                  #");
